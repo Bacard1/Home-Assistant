@@ -1,7 +1,7 @@
 <h1 align="center">Home Assistant Projekts</h1>
 <h1 align="center">Език / Sprache</h1>
 
-<a href="https://github.com/Bacard1/HomeAssistant-Bulgaria">
+<a href="https://github.com/Bacard1/Home-Assistant-Bulgaria">
     <img align="center" src="https://github.com/user-attachments/assets/26621eb9-9565-460b-9856-dff82c4300c1" alt="БГ" width="49%" height="49%">
 </a>
 
